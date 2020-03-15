@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "qrtip": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "qrtip"
+    }
+  },
+  "defaultProject": "qrtip",
+  "cli": {
+    "analytics": "0e83c312-3000-4338-9b5d-b3b6501ee861"
+  }
 }
